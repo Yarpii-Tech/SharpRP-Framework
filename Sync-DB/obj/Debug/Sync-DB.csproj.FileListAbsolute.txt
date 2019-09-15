@@ -1,0 +1,15 @@
+E:\GTA\SharpRP-Framework\Sync-DB\bin\Debug\Sync-DB.net.dll
+E:\GTA\SharpRP-Framework\Sync-DB\bin\Debug\Sync-DB.net.pdb
+E:\GTA\SharpRP-Framework\Sync-DB\bin\Debug\CitizenFX.Core.dll
+E:\GTA\SharpRP-Framework\Sync-DB\bin\Debug\MySql.Data.dll
+E:\GTA\SharpRP-Framework\Sync-DB\bin\Debug\MySql.Data.xml
+E:\GTA\SharpRP-Framework\Sync-DB\obj\Debug\Sync-DB.csprojAssemblyReference.cache
+E:\GTA\SharpRP-Framework\Sync-DB\obj\Debug\Sync-DB.csproj.CoreCompileInputs.cache
+E:\GTA\SharpRP-Framework\Sync-DB\obj\Debug\Sync-DB.csproj.CopyComplete
+E:\GTA\SharpRP-Framework\Sync-DB\obj\Debug\Sync-DB.net.dll
+E:\GTA\SharpRP-Framework\Sync-DB\obj\Debug\Sync-DB.net.pdb
+E:\GTA\SharpRP-Framework\Sync-DB\bin\Debug\BouncyCastle.Crypto.dll
+E:\GTA\SharpRP-Framework\Sync-DB\bin\Debug\Google.Protobuf.dll
+E:\GTA\SharpRP-Framework\Sync-DB\bin\Debug\Renci.SshNet.dll
+E:\GTA\SharpRP-Framework\Sync-DB\bin\Debug\Google.Protobuf.xml
+E:\GTA\SharpRP-Framework\Sync-DB\bin\Debug\Renci.SshNet.xml
