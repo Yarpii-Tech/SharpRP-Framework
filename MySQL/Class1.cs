@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SharpRP_Framework
+namespace MySQL
 {
     public class Class1
     {

@@ -1,0 +1,8 @@
+E:\GTA\SharpRP-Framework\Client_Core\bin\Debug\Client_Core.net.dll
+E:\GTA\SharpRP-Framework\Client_Core\bin\Debug\Client_Core.net.pdb
+E:\GTA\SharpRP-Framework\Client_Core\bin\Debug\CitizenFX.Core.dll
+E:\GTA\SharpRP-Framework\Client_Core\obj\Debug\Client_Core.csprojAssemblyReference.cache
+E:\GTA\SharpRP-Framework\Client_Core\obj\Debug\Client_Core.csproj.CoreCompileInputs.cache
+E:\GTA\SharpRP-Framework\Client_Core\obj\Debug\Client_Core.csproj.CopyComplete
+E:\GTA\SharpRP-Framework\Client_Core\obj\Debug\Client_Core.net.dll
+E:\GTA\SharpRP-Framework\Client_Core\obj\Debug\Client_Core.net.pdb
