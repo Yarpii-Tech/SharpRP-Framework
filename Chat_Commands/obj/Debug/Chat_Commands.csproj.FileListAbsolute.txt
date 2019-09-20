@@ -1,0 +1,8 @@
+E:\GTA\SharpRP-Framework\Chat_Commands\bin\Debug\Chat_Commands.net.dll
+E:\GTA\SharpRP-Framework\Chat_Commands\bin\Debug\Chat_Commands.net.pdb
+E:\GTA\SharpRP-Framework\Chat_Commands\bin\Debug\CitizenFX.Core.dll
+E:\GTA\SharpRP-Framework\Chat_Commands\obj\Debug\Chat_Commands.csprojAssemblyReference.cache
+E:\GTA\SharpRP-Framework\Chat_Commands\obj\Debug\Chat_Commands.csproj.CoreCompileInputs.cache
+E:\GTA\SharpRP-Framework\Chat_Commands\obj\Debug\Chat_Commands.csproj.CopyComplete
+E:\GTA\SharpRP-Framework\Chat_Commands\obj\Debug\Chat_Commands.net.dll
+E:\GTA\SharpRP-Framework\Chat_Commands\obj\Debug\Chat_Commands.net.pdb

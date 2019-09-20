@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_Core", "Client_Core\Client_Core.csproj", "{F75EE354-AE69-4196-B432-92B80DE433C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sync-DB", "Sync-DB\Sync-DB.csproj", "{23009608-ECE4-4E15-B9FE-398CCC5BB9A9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cs-MySql", "Sync-DB\Cs-MySql.csproj", "{23009608-ECE4-4E15-B9FE-398CCC5BB9A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat_Commands", "Chat_Commands\Chat_Commands.csproj", "{4A9D6C71-B27B-4ACE-890D-16071B9E4259}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{23009608-ECE4-4E15-B9FE-398CCC5BB9A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23009608-ECE4-4E15-B9FE-398CCC5BB9A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23009608-ECE4-4E15-B9FE-398CCC5BB9A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A9D6C71-B27B-4ACE-890D-16071B9E4259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9D6C71-B27B-4ACE-890D-16071B9E4259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9D6C71-B27B-4ACE-890D-16071B9E4259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9D6C71-B27B-4ACE-890D-16071B9E4259}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
